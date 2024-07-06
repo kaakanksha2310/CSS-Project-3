@@ -1,5 +1,5 @@
 # CSS Project 3    
-![Website Screenshot](view.png)(vid.mov)
+![[Website Screenshot](view.png)](vid.mov)
 
 This project demonstrates a responsive, user-friendly interface using HTML and CSS. The focus is on dynamic content, cross-browser compatibility, and structured workflows, making it ideal for beginners and collaborative front-end development.
 
@@ -23,7 +23,7 @@ This project showcases a responsive, user-friendly interface emphasizing dynamic
 ## Setup
 1.⁠ ⁠Clone the repository:
     ⁠ bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/kaakanksha2310/CSS-Project-3.git
      ⁠
 2.⁠ ⁠Navigate to the project directory:
     ⁠ bash
