@@ -1,5 +1,5 @@
 # CSS Project 3    
-![[Website Screenshot](view.png)](vid.mov)
+![Website Screenshot](view.png)
 
 This project demonstrates a responsive, user-friendly interface using HTML and CSS. The focus is on dynamic content, cross-browser compatibility, and structured workflows, making it ideal for beginners and collaborative front-end development.
 
